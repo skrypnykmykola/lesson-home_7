@@ -1,0 +1,28 @@
+
+.container {
+   height: 100%;
+   padding: 30px;
+}
+
+.bdn2 {
+   margin-top: 40px;
+}
+
+.bdn3 {
+   margin: 40px 10px -30px;
+}
+
+.text-recTop{
+   flex-direction: column;
+}
+
+.textrect4{
+   width: 250px;
+   font-size: 8px;
+   }
+   
+.textrect5{
+   width: 165px;
+   padding: 15px 30px;
+}   
+

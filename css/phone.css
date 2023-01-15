@@ -1,0 +1,67 @@
+
+   .header{
+      width: 200%;
+      height: 100%;
+   flex-direction: column;
+            
+   }
+
+   /* .textrect4{
+      width: 290px;
+
+   } */
+
+   .lineBlock{
+      width: 200px;
+   }
+
+   .container {
+    padding: 5px;
+   }
+
+   .bodyTop{
+   width: 200%;
+   flex-direction: column;
+   }
+
+   .bodyFuter_top{
+   flex-direction: column;
+   width: 300%;
+   flex-wrap: nowrap;    
+   }
+
+   .bdn1 {
+    margin-top: 570px;
+   }
+
+   .centrhead{
+     flex-direction: column; 
+     width: 200%;
+   }
+
+   .centrnumber{
+      padding: 10px;
+   }
+
+
+   .bdn2{
+      margin: 640px 0px 0px;
+   }
+
+
+
+   .centrbuttomTop{
+     flex-direction: column; 
+     width: 300%;
+   }
+
+
+
+   .futerTop{
+      flex-direction: column;
+      width: 300%;
+   }
+
+   .bdn3{
+      margin:30px -461px -15px;
+   }
